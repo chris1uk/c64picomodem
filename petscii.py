@@ -1,3 +1,4 @@
+#petscii code from https://github.com/jalbarracinv/python-cbm-petscii-bbs
 class petscii():
     petscii={'A':b'\xc1','B':b'\xc2','C':b'\xc3','D':b'\xc4','E':b'\xc5','F':b'\xc6','G':b'\xc7','H':b'\xc8',
     'I':b'\xc9','J':b'\xca','K':b'\xcb','L':b'\xcc','M':b'\xcd','N':b'\xce','O':b'\xcf','P':b'\xd0',
